@@ -1,0 +1,3 @@
+[submodule "RAnalyzer"]
+	path = RAnalyzer
+	url = git@github.com:ronald-sumbayak/RAnalyzer.git
