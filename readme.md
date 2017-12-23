@@ -25,8 +25,8 @@ The software application should allow the end user, i.e. the software engineer, 
 n.a.
 
 #### 1.4. References
-- [Use Case Specification Document of 'Create a New Project'](Documents/UCS_CreateNewProject_ver-1.0.pdf)
-- [Use Case Specification Document of 'Open an Existing Project'](Documents/UCS_OpenExistingProject_ver-1.0.pdf)
+- [Use Case Specification Document of 'Create a New Project'](#use-case-specification-create-new-project)
+- [Use Case Specification Document of 'Open an Existing Project'](#use-case-specification-open-existing-project)
 
 #### 1.5. Overview
 The rest of the document is organized as follows.
